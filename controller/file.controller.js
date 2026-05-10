@@ -1,5 +1,5 @@
 const fs = require("fs");
-const baseUrl = "http://localhost:3000/"
+const baseUrl = "https://ivm-detailing.onrender.com/"
 const fetch = require('node-fetch');
 
 // Shows list of files
