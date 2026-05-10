@@ -61,7 +61,7 @@ app.use(function(req, res, next) {
 global.__basedir = __dirname;
 
 const corsOptions = {
-   origin: "http://localhost:3000"
+   origin: "https://ivm-detailing.onrender.com/"
 };
 
 app.use(cors(corsOptions));
